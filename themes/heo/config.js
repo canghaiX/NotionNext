@@ -103,7 +103,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '如果有什么想分享的',
   HEO_SOCIAL_CARD_TITLE_3: '请您联系我',
-  HEO_SOCIAL_CARD_URL: 'https://www.facebook.com/profile.php?id=61555325170396',
+  HEO_SOCIAL_CARD_URL: 'https://weibo.com/u/7897036847',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
